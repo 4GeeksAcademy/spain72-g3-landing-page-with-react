@@ -1,3 +1,21 @@
 body{
     background: #BDBDBD;
 }
+.bg-image {
+    background-image: url('https://images2.alphacoders.com/545/545821.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.display-1 {
+    margin-top: 80px;
+    background-color: rgba(250, 235, 215, 0.397);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.display-4 {
+    margin-top: 30px;
+    background-color: rgba(250, 235, 215, 0.397);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
